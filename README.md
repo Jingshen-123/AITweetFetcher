@@ -1,2 +1,2 @@
-# AI-
+# AITweetFetcher
 及时获取AI大牛的推特信息
